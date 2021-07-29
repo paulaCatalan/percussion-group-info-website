@@ -5,5 +5,5 @@ title.addEventListener('click', () => {
 })
 
 function redirectToMenu(){
-    location.href ='menu.html';
+    location.href ='menu/menu.html';
 }
