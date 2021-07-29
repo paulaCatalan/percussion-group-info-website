@@ -3,5 +3,8 @@
 ## Tech Stack:
 HTML, CSS and Javascript in the frontend
 
-## WIP:
+## TO DO:
+Draw HTML for each event in json 
+
+## BACKLOG:
 Backend
