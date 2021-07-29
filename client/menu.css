@@ -1,0 +1,7 @@
+.menu-options h1 {
+    font-family: 'Muli', sans-serif;
+    color: rgb(247, 220, 45);
+    opacity: 5;
+    cursor: pointer;
+    text-align: center;
+}
