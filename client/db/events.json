@@ -5,14 +5,17 @@
         "date": "13/08",
         "time": "9:00h",
         "location": "Blanes",
-        "members": 7
+        "members": 7,
+        "timestamp": 1628838000
     },
     {
-        "title": "Animació Camping Tordera",
-        "description": "Celebració al Camping i a la piscina pels infants, Celebració al Camping i a la piscina pels infantsCelebració al Camping i a la piscina pels infantsCelebració al Camping i a la piscina pels infantsCelebració al Camping i a la piscina pels infantsCelebració al Camping i a la piscina pels infants",
-        "date": "13/08",
+        "title": "Past event",
+        "description": "Past event description",
+        "date": "13/07",
         "time": "9:00h",
         "location": "Blanes",
-        "members": 7
+        "members": 7,
+        "timestamp": 1626159600
+        
     }
 ]
