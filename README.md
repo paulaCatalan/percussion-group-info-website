@@ -4,7 +4,8 @@
 HTML, CSS and Javascript in the frontend
 
 ## TO DO:
-Draw HTML for each event in json 
+Order the events by date
+Put a vertical scroll
 
 ## BACKLOG:
 Backend

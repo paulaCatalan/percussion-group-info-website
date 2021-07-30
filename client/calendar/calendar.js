@@ -10,9 +10,9 @@ async function fetchEventsJSON() {
 fetchEventsJSON().then(events => {
     events.forEach((event) => {
         if ( event.timestamp >= Math.floor(Date.now() / 1000)){
-            eventList.innerHTML += '<div class="event">' + '<h3>' + event.title + '</h3>' +
+            eventList.innerHTML += '<div class="event">' + '<div class="title-line"' + '<a>' + event.title + '</a>' + '<a id="big-date"> ' + event.date + '</a>' + '</div>' +
         '<p>' + event.description + '</p>' +
-        '<ul>' + '<li>' + event.members + ' membres' + '</li>' + '<li>' + event.date + '</li>' + '<li>' + event.time + '</li>' + '<li>' + event.location + '</li>' + '</ul>' + '</div>'
+        '<ul class="event-details">' + '<li>' + event.members + ' membres' + '</li>' + '<li>' + event.time + '</li>' + '<li>' + event.location + '</li>' + '</ul>' + '</div>'
         }
         
     })
