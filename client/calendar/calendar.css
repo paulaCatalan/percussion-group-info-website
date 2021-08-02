@@ -1,9 +1,26 @@
 .event {
-    max-width: 500px;
+    max-width: 800px;
     margin-bottom: 40px;
 }
 
-.event h3 {
+.title-line {
     font-weight: bold;
+    font-size: 18px;
+    border-bottom: 3px solid #ffee70;
 }
 
+#big-date {
+    text-align: right;
+    float: right;
+}
+
+#eventList {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.event-details {
+    list-style-type: none;
+    padding-left:0;
+  
+}

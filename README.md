@@ -4,7 +4,9 @@
 HTML, CSS and Javascript in the frontend
 
 ## TO DO:
-Draw HTML for each event in json 
+Make website more responsive (Media queries)
+Rename ids (events)
+Order the events by date
 
 ## BACKLOG:
 Backend
