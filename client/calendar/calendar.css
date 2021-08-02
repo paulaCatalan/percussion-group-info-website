@@ -1,7 +1,6 @@
 .event {
     max-width: 800px;
     margin-bottom: 40px;
-    position: relative;
 }
 
 .title-line {
@@ -15,9 +14,9 @@
     float: right;
 }
 
-.eventList {
-    width: 800px;
-    overflow-x: scroll;
+#eventList {
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .event-details {
