@@ -36,6 +36,78 @@
         "timestamp": 1631516400
     },
     {
+        "title": "Animació Caravaning Internacional Costa Brava",
+        "description": "Celebració al Camping i a la piscina pels infants",
+        "date": "13/08",
+        "time": "9:00h",
+        "location": "Blanes",
+        "members": 7,
+        "timestamp": 1628838000
+    },
+    {
+        "title": "Inici de Curs al CIB",
+        "description": "Actuació expolsiva per donar la benvinguda als nous estudiants",
+        "date": "07/09",
+        "time": "11:00h",
+        "location": "Culinary Institute of Barcelona",
+        "members": 7,
+        "timestamp": 1631005200
+    },
+    {
+        "title": "Actuació Can Clariana Cultural",
+        "description": "Espectacle en estàtic dins la programació cultural del Centre Cívic Can Clariana per celebrar els 10 anys de Tokem x Tu",
+        "date": "10/09",
+        "time": "19:00h",
+        "location": "Centre Cívic Can Clariana Cultural",
+        "members": 7,
+        "timestamp": 1631293200
+    },
+    {
+        "title": "Inici de curs de l'Escola Poeta Foix",
+        "description": "Celebrem el primer dia de curs amb percussió al pati",
+        "date": "13/09",
+        "time": "9:00h",
+        "location": "Escola Poeta Foix de Barcelona",
+        "members": 7,
+        "timestamp": 1631516400
+    },
+    {
+        "title": "Animació Caravaning Internacional Costa Brava",
+        "description": "Celebració al Camping i a la piscina pels infants",
+        "date": "13/08",
+        "time": "9:00h",
+        "location": "Blanes",
+        "members": 7,
+        "timestamp": 1628838000
+    },
+    {
+        "title": "Inici de Curs al CIB",
+        "description": "Actuació expolsiva per donar la benvinguda als nous estudiants",
+        "date": "07/09",
+        "time": "11:00h",
+        "location": "Culinary Institute of Barcelona",
+        "members": 7,
+        "timestamp": 1631005200
+    },
+    {
+        "title": "Actuació Can Clariana Cultural",
+        "description": "Espectacle en estàtic dins la programació cultural del Centre Cívic Can Clariana per celebrar els 10 anys de Tokem x Tu",
+        "date": "10/09",
+        "time": "19:00h",
+        "location": "Centre Cívic Can Clariana Cultural",
+        "members": 7,
+        "timestamp": 1631293200
+    },
+    {
+        "title": "Inici de curs de l'Escola Poeta Foix",
+        "description": "Celebrem el primer dia de curs amb percussió al pati",
+        "date": "13/09",
+        "time": "9:00h",
+        "location": "Escola Poeta Foix de Barcelona",
+        "members": 7,
+        "timestamp": 1631516400
+    },
+    {
         "title": "Past event",
         "description": "Past event description",
         "date": "13/07",
