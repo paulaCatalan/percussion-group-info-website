@@ -10,9 +10,9 @@ Issue (From last change in CSS):
 * Portfolio doesn't have the font it had anymore
 * Calendar is centered horizontally but on the top vertically
 
-Make website more responsive (Media queries)
-Rename ids (events)
 Order the events by date
+
+Add proper headers/footers
 
 ## BACKLOG:
 Backend

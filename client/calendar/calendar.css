@@ -3,14 +3,14 @@
     margin-bottom: 40px;
 }
 
-.title-line {
+.event-header {
     font-weight: bold;
     font-size: 18px;
     border-bottom: 3px solid #ffee70;
 }
 
 
-#big-date {
+#date {
     font-size: 14px;
     font-weight: 500;
     text-align: right;
@@ -18,12 +18,12 @@
 }
 
 @media (max-width: 480px) {
-    #big-date {
+    #date {
         float: none;
         text-align: left;
     }
 
-    .title-line a {
+    .event-header a {
         display: block;
         margin-bottom: 5px;
     }
